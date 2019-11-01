@@ -7,7 +7,6 @@
 
 #### :musical_note: 사용 기술
 
- 	:musical_keyboard: musical instroment : vanilla js, html, css​
+​	:musical_keyboard: musical instroment : vanilla js, html, css
 
 ​	:guitar: main sidebar & routing : react, react router, styled-component
-
